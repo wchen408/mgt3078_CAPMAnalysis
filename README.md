@@ -1,1 +1,1 @@
-# mgt3078_CAPMAnalysis
+# CAPM stock analysis with Python and Pandas DataFrame
